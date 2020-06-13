@@ -1,12 +1,14 @@
 # Resources
 My favorite programming resources ...   Work in Progress...
 
-# --------------- COMPUTER LANGUAGES ---------------
+---------------
+# COMPUTER LANGUAGES 
 ### Javascript
 
 ###  Java
 
-# --------------- FRONT END ---------------
+---------------
+# FRONT END
 ### CSS
 
 ### React JS
@@ -15,11 +17,12 @@ My favorite programming resources ...   Work in Progress...
 
 ### UI Design
 
-# --------------- BACKEND ---------------
+---------------
+# BACKEND
 ### Node.Js
 
-
-# --------------- GENERAL ---------------
+---------------
+# GENERAL
 ### Software Architecture
 
 ### Youtube Channels
@@ -28,7 +31,8 @@ My favorite programming resources ...   Work in Progress...
 
 ### Machine Learning
 
-# --------------- COMPUTER SCIENCES ---------------
+---------------
+# COMPUTER SCIENCES
 
 
 
